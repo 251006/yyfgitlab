@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main()
+
 {
-    // @TODO: print a sentence you want.
+    printf("hacker-coming\n");
     printf("Hello, world!\n");
 }
