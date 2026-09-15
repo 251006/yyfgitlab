@@ -3,6 +3,6 @@
 int main()
 
 {
-    printf("hacker-coming\n");
+    printf("This line is changed on main branch.\n");
     printf("Hello, world!\n");
 }
